@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<source>
+  <lastBuildDate>Thu, 19 Jun 2025 10:00:00 GMT</lastBuildDate>
+  <job>
+    <partnerJobId>TEST-00001</partnerJobId>
+    <company>City of Karratha (TEST DATA)</company>
+    <title>TEST - Airport Reporting Officer</title>
+    <description>&lt;p&gt;This is a &lt;strong&gt;TEST JOB&lt;/strong&gt; used for validating the LinkedIn XML feed setup.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do not apply&lt;/li&gt;&lt;li&gt;This is not a real position&lt;/li&gt;&lt;li&gt;Used only for technical integration testing&lt;/li&gt;&lt;/ul&gt;</description>
+    <applyUrl>https://example.com/apply-now</applyUrl>
+    <companyId>1234567</companyId>
+    <location>Karratha, WA, Australia</location>
+    <city>Karratha</city>
+    <state>WA</state>
+    <country>AU</country>
+    <postalCode>6714</postalCode>
+    <workplaceTypes>On-site</workplaceTypes>
+    <experienceLevel>NOT_APPLICABLE</experienceLevel>
+    <jobFunctions>
+      <jobFunction>other</jobFunction>
+    </jobFunctions>
+    <jobtype>FULL_TIME</jobtype>
+    <salaries>
+      <salary>
+        <highEnd>
+          <amount>999999</amount>
+          <currencyCode>AUD</currencyCode>
+        </highEnd>
+        <lowEnd>
+          <amount>1</amount>
+          <currencyCode>AUD</currencyCode>
+        </lowEnd>
+        <period>YEARLY</period>
+        <type>BASE_SALARY</type>
+      </salary>
+    </salaries>
+    <jobPostingAvailability>PUBLIC</jobPostingAvailability>
+  </job>
+</source>
