@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <JobPost>
-  <partnerJobId>REC-212</partnerJobId>
-  <title>Business Systems Analyst - Fixed Term</title>
-  <company>City of Karratha</company>
-  <location>Karratha, West Australia, Australia</location>
+  <partnerJobId><![CDATA[REC-212]]></partnerJobId>
+  <title><![CDATA[Business Systems Analyst - Fixed Term]]></title>
+  <company><![CDATA[City of Karratha}}></company>
+  <location><![CDATA[Karratha, West Australia, Australia]]></location>
   <description><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta charset="utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -34,8 +34,8 @@ li.checked::marker { content: "\2612"; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:700;">Disclaimer:</span> Please refer to the official City of Karratha website for the most accurate and up-to-date job advertisement.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Microsoft YaHei'; font-size:11pt;"> </span> </p></body></html>]]></description>
-  <applyUrl>https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/OrganisationManagement/JobBoardEnquiry?f=%24ORG.REC.EXJOBB.ENQ&amp;suite=CES&amp;G=1069cb49-d68a-4460-98ad-31be6eab7545</applyUrl>
-  <jobtype>FULL_TIME</jobtype>
+  <applyUrl><![CDATA[https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/OrganisationManagement/JobBoardEnquiry?f=%24ORG.REC.EXJOBB.ENQ&amp;suite=CES&amp;G=1069cb49-d68a-4460-98ad-31be6eab7545]]></applyUrl>
+  <jobtype><![CDATA[FULL_TIME]]></jobtype>
   <salaries> 
     <salary> 
       <amount> <![CDATA[122946]]> </amount> 
