@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<JobPost>
+<job>
   <partnerJobId><![CDATA[REC-212]]></partnerJobId>
   <title><![CDATA[Business Systems Analyst - Fixed Term]]></title>
   <company><![CDATA[City of Karratha]]></company>
@@ -46,4 +46,4 @@ li.checked::marker { content: "\2612"; }
     <type><![CDATA[BASE_SALARY]]></type>
   </salary>
 </salaries>
-</JobPost>
+</job>
