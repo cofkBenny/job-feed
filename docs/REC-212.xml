@@ -36,12 +36,14 @@ li.checked::marker { content: "\2612"; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Microsoft YaHei'; font-size:11pt;"> </span> </p></body></html>]]></description>
   <applyUrl><![CDATA[https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/OrganisationManagement/JobBoardEnquiry?f=%24ORG.REC.EXJOBB.ENQ&amp;suite=CES&amp;G=1069cb49-d68a-4460-98ad-31be6eab7545]]></applyUrl>
   <jobtype><![CDATA[FULL_TIME]]></jobtype>
-  <salaries> 
-    <salary> 
-      <amount> <![CDATA[122946]]> </amount> 
-      <currencyCode> AUD </currencyCode> 
-      <period> <![CDATA[YEARLY]]> </period> 
-      <type> <![CDATA[BASE_SALARY]]> </type> 
-    </salary>
-  </salaries>
+  <salaries>
+  <salary>
+    <highEnd>
+      <amount><![CDATA[122946]]></amount>
+      <currencyCode><![CDATA[AUD]]></currencyCode>
+    </highEnd>
+    <period><![CDATA[YEARLY]]></period>
+    <type><![CDATA[BASE_SALARY]]></type>
+  </salary>
+</salaries>
 </JobPost>
