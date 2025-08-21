@@ -1,50 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
 <jobs>
 <job>
 <partnerJobId>
 
 </partnerJobId>
 <title>
-<![CDATA[ Expired Job Sample ]]>
+ Active Job Sample 
 </title>
 <company>
-<![CDATA[ Example Corp ]]>
+ Sample Inc 
 </company>
 <location>
-<![CDATA[ Karratha, West Australia, Australia ]]>
+ Karratha, West Australia, Australia 
 </location>
 <description>
-<![CDATA[ This job is expired and should be removed. ]]>
+ This job is still active and should remain. 
 </description>
 <applyUrl>
-<![CDATA[ https://example.com/apply/expired ]]>
+ https://example.com/apply/active 
 </applyUrl>
 <jobtype>
-<![CDATA[ FULL_TIME ]]>
-</jobtype>
-<expiryDate>01/01/2023</expiryDate>
-</job>
-<job>
-<partnerJobId>
-
-</partnerJobId>
-<title>
-<![CDATA[ Active Job Sample ]]>
-</title>
-<company>
-<![CDATA[ Sample Inc ]]>
-</company>
-<location>
-<![CDATA[ Karratha, West Australia, Australia ]]>
-</location>
-<description>
-<![CDATA[ This job is still active and should remain. ]]>
-</description>
-<applyUrl>
-<![CDATA[ https://example.com/apply/active ]]>
-</applyUrl>
-<jobtype>
-<![CDATA[ PART_TIME ]]>
+ PART_TIME 
 </jobtype>
 <expiryDate>12/31/2025</expiryDate>
 </job>
-</jobs>
+<job>
+  <partnerJobId>&lt;![CDATA[REC-212]]&gt;</partnerJobId>
+  <title>&lt;![CDATA[Business Systems Analyst - Fixed Term]]&gt;</title>
+  <company>&lt;![CDATA[City of Karratha]]&gt;</company>
+  <location>&lt;![CDATA[ERP PROJECT OFFICE]]&gt;</location>
+  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;meta charset="utf-8" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: "\2610"; }
+li.checked::marker { content: "\2612"; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Segoe UI'; font-size:10pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description>
+  <applyUrl>&lt;![CDATA[https://karratha-train.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA-TRAIN/RedirectToFunction?token=a44807cb-7acd-4825-a122-e940369ef28e&amp;f=%24ORG.REC.MYAPN.WIZ&amp;suite=CES]]&gt;</applyUrl>
+  <jobtype>&lt;![CDATA[FULL_TIME]]&gt;</jobtype>
+  <expiryDate>08/16/2025</expiryDate>
+</job></jobs>
