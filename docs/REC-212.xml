@@ -1,7 +1,7 @@
 <jobs>
 <job>
 <partnerJobId>
-<![CDATA[ EXP-001 ]]>
+
 </partnerJobId>
 <title>
 <![CDATA[ Expired Job Sample ]]>
@@ -25,7 +25,7 @@
 </job>
 <job>
 <partnerJobId>
-<![CDATA[ ACT-123 ]]>
+
 </partnerJobId>
 <title>
 <![CDATA[ Active Job Sample ]]>
