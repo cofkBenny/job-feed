@@ -1,3 +1,50 @@
-<?xml version='1.0' encoding='utf-8'?>
-<source>
-</source>
+<jobs>
+<job>
+<partnerJobId>
+<![CDATA[ EXP-001 ]]>
+</partnerJobId>
+<title>
+<![CDATA[ Expired Job Sample ]]>
+</title>
+<company>
+<![CDATA[ Example Corp ]]>
+</company>
+<location>
+<![CDATA[ Karratha, West Australia, Australia ]]>
+</location>
+<description>
+<![CDATA[ This job is expired and should be removed. ]]>
+</description>
+<applyUrl>
+<![CDATA[ https://example.com/apply/expired ]]>
+</applyUrl>
+<jobtype>
+<![CDATA[ FULL_TIME ]]>
+</jobtype>
+<expiryDate>01/01/2023</expiryDate>
+</job>
+<job>
+<partnerJobId>
+<![CDATA[ ACT-123 ]]>
+</partnerJobId>
+<title>
+<![CDATA[ Active Job Sample ]]>
+</title>
+<company>
+<![CDATA[ Sample Inc ]]>
+</company>
+<location>
+<![CDATA[ Karratha, West Australia, Australia ]]>
+</location>
+<description>
+<![CDATA[ This job is still active and should remain. ]]>
+</description>
+<applyUrl>
+<![CDATA[ https://example.com/apply/active ]]>
+</applyUrl>
+<jobtype>
+<![CDATA[ PART_TIME ]]>
+</jobtype>
+<expiryDate>12/31/2025</expiryDate>
+</job>
+</jobs>
