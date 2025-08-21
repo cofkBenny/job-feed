@@ -1,3 +1,20 @@
-<?xml version='1.0' encoding='utf-8'?>
-<source>
-</source>
+<jobs>
+  <job>
+    <partnerJobId>
+      <![CDATA[ TEST-EXPIRED ]]>
+    </partnerJobId>
+    <title>
+      <![CDATA[ Old Job ]]>
+    </title>
+    <expiryDate>01/01/2023</expiryDate>
+  </job>
+  <job>
+    <partnerJobId>
+      <![CDATA[ TEST-ACTIVE ]]>
+    </partnerJobId>
+    <title>
+      <![CDATA[ New Job ]]>
+    </title>
+    <expiryDate>12/31/2999</expiryDate>
+  </job>
+</jobs>
