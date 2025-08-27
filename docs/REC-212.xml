@@ -1,3 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
-<source>
-</source>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed>
+<job>
+<partnerJobId><![CDATA[REC-212]]></partnerJobId>
+<title><![CDATA[Marketing Coordinator - 12 Month Contract]]></title>
+<company><![CDATA[City of Karratha]]></company>
+<location><![CDATA[Karratha, West Australia, Australia]]></location>
+<description><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"> p, li { white-space: pre-wrap; } hr { height: 1px; border-width: 0; } li.unchecked::marker { content: "\2610"; } li.checked::marker { content: "\2612"; } <p>The City of Karratha is offering an opportunity for an experienced and suitably qualified Accountant to join our Financial Services Team. </p> <p>This position is based in Karratha, offering an attractive salary and a range of other benefits including, but not limited to: </p> <ul> <li>Allowances </li> <li>Six weeks’ annual leave </li> <li>13% Superannuation </li></ul> <p>As a member of the financial services team the Assistant Management Accountant is responsible for assisting with the Annual Budget, Budget Reviews, and Long term financial plans as required. </p> <p>The role also supports the Management Accountant in preparing the Council’s annual budget and budget reviews, responds to audit enquiries, and oversees the accounts receivable, invoicing, and debt recovery processes. </p> <p>Qualifications and experience required for the role: </p> <ul> <li>A relevant tertiary qualification in finance/ accounting </li> <li>A minimum of 2 years’ experience in a similar position within a medium to large organisation </li> <li><i>A current C Class drivers licence </i></li> <li><b><i>A National (or Federal) Police Certificate (no more than 6 months old) </i></b></li></ul> <p><b>Why Join Us? </b></p> <ul> <li>Competitive salary and benefits. </li> <li>A supportive and inclusive work environment. </li> <li>Opportunities for professional growth and development. </li> <li>Play an important role in the City’s financial future. </li></ul></description>
+<applyUrl><![CDATA[https://karratha-train.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA-TRAIN/RedirectToFunction?token=a44807cb-7acd-4825-a122-e940369ef28e&f=%24ORG.REC.MYAPN.WIZ&suite=CES]]></applyUrl>
+<jobtype><![CDATA[FULL_TIME]]></jobtype>
+<expiryDate>12/31/2025</expiryDate>
+</job>
+<job>
+<partnerJobId><![CDATA[MOCK-EXPIRED-001]]></partnerJobId>
+<title><![CDATA[Expired Job Example]]></title>
+<company><![CDATA[City of Karratha]]></company>
+<location><![CDATA[Karratha, West Australia, Australia]]></location>
+<description><![CDATA[This is a test job that should be deleted by the expiration logic.]]></description>
+<applyUrl><![CDATA[https://example.com/apply-expired]]></applyUrl>
+<jobtype><![CDATA[PART_TIME]]></jobtype>
+<expiryDate>01/01/2024</expiryDate>
+</job>
+</feed>
