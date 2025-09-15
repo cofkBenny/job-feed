@@ -3,11 +3,11 @@
 
 
 <job>
-  <partnerJobId><![CDATA[REC-212ssss-20250915-110856]]></partnerJobId>
-  <title><![CDATA[Business Systems Analyst - Fixed Termsss]]></title>
+  <partnerJobId><![CDATA[REC-212TEST-20250915-112042]]></partnerJobId>
+  <title><![CDATA[Business Systems Analyst - Fixed TermTEST]]></title>
   <company><![CDATA[City of Karratha]]></company>
   <location><![CDATA[Karratha, Western Australia, Australia]]></location>
-  <description><![CDATA[<p><b><i>Salary Package: $109,109 per annum plus super</i></b> </p>
+  <description><![CDATA[<p><b><i>Salary Package: $109,109 per annum plus super</i></b>  TEST</p>
 <p>The City of Karratha is currently seeking a suitably experienced individual to join our Operations team as Maintenance Worker Plant Operators. </p>
 <p>The position is based in Karratha, offering an attractive salary and a range of other benefits including, but not limited to: </p>
 <ul>
@@ -25,9 +25,9 @@
 <li>Previous Local Government experience desirable </li>
 <li>General knowledge of Work Health &amp; Safety Regulations </li>
 <li>A National (or Federal) Police Certificate (no more than 6 months old) </li></ul>]]></description>
-  <applyUrl><![CDATA[https://karratha-train.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA-TRAIN/RedirectToFunction?token=a44807cb-7acd-4825-a122-e940369ef28e&f=%24ORG.REC.MYAPN.WIZ&suite=CESsss]]></applyUrl>
+  <applyUrl><![CDATA[https://karratha-train.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA-TRAIN/RedirectToFunction?token=a44807cb-7acd-4825-a122-e940369ef28e&f=%24ORG.REC.MYAPN.WIZ&suite=CES]]></applyUrl>
   <jobtype><![CDATA[FULL_TIME]]></jobtype>
-  <expiryDate><![CDATA[10/16/2025]]></expiryDate>
+  <expiryDate><![CDATA[08/16/2025]]></expiryDate>
   <workplaceTypes><![CDATA[On-site]]></workplaceTypes>
 </job>
 </jobs>
