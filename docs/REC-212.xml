@@ -30,4 +30,43 @@
     </salary>
   </salaries>
 </job>
+<job>
+  <partnerJobId><![CDATA[REC-331-20251208-134432]]></partnerJobId>
+  <title><![CDATA[Road and Footpath Sweeper]]></title>
+  <company><![CDATA[City of Karratha]]></company>
+  <location><![CDATA[Karratha, Western Australia, Australia]]></location>
+  <description><![CDATA[<p>The City of Karratha is offering an opportunity for an experienced and suitably qualified Accountant to join our Financial Services Team.</p>
+<p>This position is based in Karratha, offering an attractive salary and a range of other benefits including, but not limited to:</p>
+<ul>
+<li>Allowances</li>
+<li>Six weeks’ annual leave</li>
+<li>13% Superannuation</li></ul>
+<p>As a member of the financial services team the Assistant Management Accountant is responsible for assisting with the Annual Budget, Budget Reviews, and Long term financial plans as required.</p>
+<p>The role also supports the Management Accountant in preparing the Council’s annual budget and budget reviews, responds to audit enquiries, and oversees the accounts receivable, invoicing, and debt recovery processes.</p>
+<p>Qualifications and experience required for the role:</p>
+<ul>
+<li>A relevant tertiary qualification in finance/ accounting</li>
+<li>A minimum of 2 years’ experience in a similar position within a medium to large organisation</li>
+<li>A current C Class drivers licence</li>
+<li>A National (or Federal) Police Certificate (no more than 6 months old)</li></ul>
+<p><b>Why Join Us?</b></p>
+<ul>
+<li>Competitive salary and benefits.</li>
+<li>A supportive and inclusive work environment.</li>
+<li>Opportunities for professional growth and development.</li>
+<li>Play an important role in the City’s financial future.</li></ul>]]></description>
+  <applyUrl><![CDATA[https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/RedirectToFunction?token=5f3e0559-093c-4ae9-9c21-863a729ec82f&f=%24ORG.REC.MYAPN.WIZ&suite=CES]]></applyUrl>
+  <jobtype><![CDATA[FULL_TIME]]></jobtype>
+  <expiryDate><![CDATA[12/22/2025]]></expiryDate>
+  <workplaceTypes><![CDATA[On-site]]></workplaceTypes>
+  <salaries>
+    <salary>
+      <highEnd>
+        <amount><![CDATA[50]]></amount>
+        <currencyCode><![CDATA[AUD]]></currencyCode>
+      </highEnd>
+      <period><![CDATA[HOURLY]]></period>
+    </salary>
+  </salaries>
+</job>
 </jobs>
