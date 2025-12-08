@@ -20,4 +20,24 @@
     </salary>
   </salaries>
 </job>
+<job>
+  <partnerJobId><![CDATA[REC-295-20251208-130944]]></partnerJobId>
+  <title><![CDATA[Senior Community Development Officer]]></title>
+  <company><![CDATA[City of Karratha]]></company>
+  <location><![CDATA[Karratha, Western Australia, Australia]]></location>
+  <description><![CDATA[]]></description>
+  <applyUrl><![CDATA[https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/RedirectToFunction?token=0d17923a-f2d4-4ed8-bf5a-3a4e78b8fd31&f=%24ORG.REC.MYAPN.WIZ&suite=CES]]></applyUrl>
+  <jobtype><![CDATA[FULL_TIME]]></jobtype>
+  <expiryDate><![CDATA[02/02/2026]]></expiryDate>
+  <workplaceTypes><![CDATA[On-site]]></workplaceTypes>
+  <salaries>
+    <salary>
+      <highEnd>
+        <amount><![CDATA[123456]]></amount>
+        <currencyCode><![CDATA[AUD]]></currencyCode>
+      </highEnd>
+      <period><![CDATA[YEARLY]]></period>
+    </salary>
+  </salaries>
+</job>
 </jobs>
