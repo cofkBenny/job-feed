@@ -1,3 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <jobs>
+<job>
+  <partnerJobId><![CDATA[REC-341-20251208-091232]]></partnerJobId>
+  <title><![CDATA[Governance Officer - Compliance]]></title>
+  <company><![CDATA[City of Karratha]]></company>
+  <location><![CDATA[Karratha, Western Australia, Australia]]></location>
+  <description><![CDATA[<p><b><i>Salary Package: $109,109 per annum plus super</i></b> </p>
+<p>The City of Karratha is currently seeking a suitably experienced individual to join our Operations team as Maintenance Worker Plant Operators. </p>
+<p>The position is based in Karratha, offering an attractive salary and a range of other benefits including, but not limited to: </p>
+<ul>
+<li>Six weeks annual leave </li>
+<li>Allowances </li>
+<li>13% Superannuation </li>
+<li>Monthly ATO </li></ul>
+<p>The Maintenance Worker Plant Operator is responsible for performing tasks for the maintenance and upkeep of Council’s infrastructure. </p>
+<p>Whilst, ideally, the successful applicants will possess the requirements below, the City is also prepared to train the right people and further their development. The successful candidate will possess: </p>
+<ul>
+<li>A current HR licence (HC licence preferred) </li>
+<li>Relevant experience and/or training in a similar position </li>
+<li>Current Basic Traffic Management certification </li>
+<li>Current certificates of competency for Grader, Roller, Backhoe, Skid Steer and/or Loader desirable </li>
+<li>Previous Local Government experience desirable </li>
+<li>General knowledge of Work Health &amp; Safety Regulations </li>
+<li>A National (or Federal) Police Certificate (no more than 6 months old) </li></ul>]]></description>
+  <applyUrl><![CDATA[https://karratha.t1cloud.com/T1Default/CiAnywhere/Web/KARRATHA/RedirectToFunction?token=8ff649f1-bc2d-4624-a6c8-c8438ff45bc6&f=%24ORG.REC.MYAPN.WIZ&suite=CES]]></applyUrl>
+  <jobtype><![CDATA[FULL_TIME]]></jobtype>
+  <expiryDate><![CDATA[12/20/2025]]></expiryDate>
+  <workplaceTypes><![CDATA[Remote]]></workplaceTypes>
+  <salaries>
+    <salary>
+      <highEnd>
+        <amount><![CDATA[58]]></amount>
+        <currencyCode><![CDATA[AUD]]></currencyCode>
+      </highEnd>
+      <period><![CDATA[HOURLY]]></period>
+    </salary>
+  </salaries>
+</job>
 </jobs>
