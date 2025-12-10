@@ -1,3 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <jobs>
+<job>
+  <partnerJobId><![CDATA[REC- 315-20251210-112804]]></partnerJobId>
+  <title><![CDATA[Administration Officer (Engineering)]]></title>
+  <company><![CDATA[City of Karratha]]></company>
+  <location><![CDATA[Karratha, Western Australia, Australia]]></location>
+  <description><![CDATA[]]></description>
+  <applyUrl><![CDATA[]]></applyUrl>
+  <jobtype><![CDATA[FULL_TIME]]></jobtype>
+  <expiryDate><![CDATA[01/01/2099]]></expiryDate>
+  <workplaceTypes><![CDATA[On-site]]></workplaceTypes>
+</job>
 </jobs>
